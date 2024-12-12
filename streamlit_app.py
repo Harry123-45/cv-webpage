@@ -1,5 +1,9 @@
 import streamlit as st
 
+left ,right=st.columns(2)
+
+left.image("image.jpg", width= 100)
+right.header("Harry Chouhan")
 st.title("🎈 My new app😎", anchor=False)
 st.header("Ich bin ein neue Überschrift💀", anchor=False)
 st.subheader("Noch eine kleinere Überschrift🤣", anchor=False)
@@ -27,14 +31,15 @@ st.write("""
 ►Zeitraum: September 2024 - Juli 2025
          """)
 
-st.subheader("Mittelschule Kayniongasse, Wien", anchor=False)
+st.subheader("Mittelschule Sechshaus, Wien", anchor=False)
 st.write("""
-► Zeitraum: September 2020 – Juli 2024
+► Schwerpunkt Informatik
+► Zeitraum: September 2020 – Juli 2024        
 """)
 st.header("Arbeitserfahrung", anchor=False, divider="blue")
 st.write("""
          
-Berufspraktische Tage 1: Bei XYZ von 18. bis 22. Nov. 2024
-Berufspraktische Tage 2: Bei XYZ von 24. bis 28. Feb. 2025
+ - Berufspraktische Tage 1: Bei Bawag P.S.K von 18. bis 22. Nov. 2024
+ - Berufspraktische Tage 2: Bei XYZ von 24. bis 28. Feb. 2025
          """)
 
