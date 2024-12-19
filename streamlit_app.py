@@ -5,6 +5,7 @@ def get_file_content_as_bytes(file_path):
     with open(file_path, "rb") as file:
         return file.read()
 
+
 # Pfad zur PDF-Datei
 file_path = 'cv.pdf'
 
