@@ -59,14 +59,18 @@ st.header("Arbeitserfahrung", anchor=False, divider="blue")
 st.write("""
          
  ► Berufspraktische Tage 1 : Bei Pagro diskont von 18. bis 22. Nov. 2023
+         
  ► Berufspraktische Tage 2 : Bei Bawag P.S.K von 18. bis 22. Nov. 2024
          """)
 
 st.header("Fähigkeiten", anchor=False, divider="blue")
 st.markdown(r'''
 ►  teamfähig: Kann sehr gut in einem teamarbeiten
+            
 ►  schnelle auffassung: Kann verstehe aufgaben schnell ohne viel hilfe
+            
 ►  Zielstrebig: Mache alles um mein ziel zu schaffen
+            
 ''')
 
 st.header("Interessen und Hobbys", anchor=False, divider="blue")
