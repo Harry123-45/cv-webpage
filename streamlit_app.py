@@ -66,20 +66,20 @@ st.write("""
 
 st.header("Fähigkeiten", anchor=False, divider="blue")
 st.markdown(r'''
-►  Teamfähig: Kann sehr gut im Team arbeiten
+►  Teamfähig: Kann sehr gut im Team arbeiten.
             
-►  schnelle Auffassungsgabe: Kann Aufgaben schnell verstehen, ohne viel hilfe
+►  schnelle Auffassungsgabe: Kann Aufgaben schnell verstehen, ohne viel Hilfe.
             
-►  Zielstrebig: Mache alles um mein ziel zu schaffen
+►  Zielstrebig: Mache alles um meine Ziele zu erreichen.
             
 ''')
 
 st.header("Interessen und Hobbys", anchor=False, divider="blue")
 st.markdown(r'''
-- Videospiele: Ich spiele gerne videospiele in meine Freizeit
+- Videospiele: Ich spiele gerne Videospiele in meiner Freizeit.
             
-- Programmieren: Ich schaue gerne Videos über Programmieren und lerne gerne immer was neue über das Programmieren
+- Programmieren: Ich schaue Videos über das Thema Programmieren und lerne gerne draus.
             
-- Fitness: Ich gehe sehr gerne ins Fitnessstudio
+- Fitness: Ich gehe sehr gerne ins Fitnessstudio.
             
 ''')
