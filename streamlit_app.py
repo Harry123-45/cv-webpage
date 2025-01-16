@@ -72,6 +72,9 @@ st.markdown(r'''
 st.header("Interessen und Hobbys", anchor=False, divider="blue")
 st.markdown(r'''
 - Video spiele: Ich spiele gerne video spiele in meine Freizeit
+            
 - Programmieren: Ich schaue gerne videos über programmieren und lerne gerne immer was neue über das Programmieren
+            
 - Fitness: Ich gehe sehr gerne ins Fitness studio
+            
 ''')
