@@ -25,7 +25,7 @@ with right:
         mime='application/pdf'
     )
 
-left.image("profile-pic.png", width= 200)
+left.image("shared image.jpg", width= 200)
 st.markdown("<style> .stAppHeader {display:none;} ul {list-style-type: none; } </style>", unsafe_allow_html=True)
 
 
