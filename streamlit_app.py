@@ -61,14 +61,14 @@ st.write("""
          
  ► Berufspraktische Tage 1 : Bei Pagro diskont von 18. bis 22. Nov. 2023
          
- ► Berufspraktische Tage 2 : Bei Bawag P.S.K von 18. bis 22. Nov. 2024
+ ► Berufspraktische Tage 2 : Bei BAWAG P.S.K von 18. bis 22. Nov. 2024
          """)
 
 st.header("Fähigkeiten", anchor=False, divider="blue")
 st.markdown(r'''
-►  teamfähig: Kann sehr gut im Team arbeiten
+►  Teamfähig: Kann sehr gut im Team arbeiten
             
-►  schnelle Auffassungsgabe: Kann Aufgaben schnell verstehen ohne viel hilfe
+►  schnelle Auffassungsgabe: Kann Aufgaben schnell verstehen, ohne viel hilfe
             
 ►  Zielstrebig: Mache alles um mein ziel zu schaffen
             
@@ -76,9 +76,9 @@ st.markdown(r'''
 
 st.header("Interessen und Hobbys", anchor=False, divider="blue")
 st.markdown(r'''
-- Video spiele: Ich spiele gerne video spiele in meine Freizeit
+- Videospiele: Ich spiele gerne videospiele in meine Freizeit
             
-- Programmieren: Ich schaue gerne videos über programmieren und lerne gerne immer was neue über das Programmieren
+- Programmieren: Ich schaue gerne Videos über Programmieren und lerne gerne immer was neue über das Programmieren
             
 - Fitness: Ich gehe sehr gerne ins Fitnessstudio
             
