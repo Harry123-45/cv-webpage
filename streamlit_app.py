@@ -15,7 +15,7 @@ file_bytes = get_file_content_as_bytes(file_path)
 left, right=st.columns(2)
 right.markdown(""" <h3> Harry Chouhan </h3> 
                <br>
-               <em> Ich bin Faziniert von IT weil es die Welt in große wegen verändern kann.</em>""", unsafe_allow_html=True)
+               <em> Ich bin faziniert von IT weil es die Welt auf große Weise verändern kann.</em>""", unsafe_allow_html=True)
 with right: 
     # Der Download-Button, der die Datei zur Verfügung stellt
     st.download_button(
@@ -29,7 +29,8 @@ left.image("shared image.jpg", width= 200)
 st.markdown("<style> .stAppHeader {display:none;} ul {list-style-type: none; } </style>", unsafe_allow_html=True)
 
 
-right.write("Kontakt daten:")
+right.write("Kontaktdaten:")
+st.write("+43 688 64260400")
 st.write("E-Mail: chouhanharry2010@gmail.com")
 
 st.header("IT-Kompetenzen", anchor=False, divider="blue")
@@ -65,9 +66,9 @@ st.write("""
 
 st.header("Fähigkeiten", anchor=False, divider="blue")
 st.markdown(r'''
-►  teamfähig: Kann sehr gut in einem teamarbeiten
+►  teamfähig: Kann sehr gut im Team arbeiten
             
-►  schnelle auffassung: Kann verstehe aufgaben schnell ohne viel hilfe
+►  schnelle Auffassungsgabe: Kann Aufgaben schnell verstehen ohne viel hilfe
             
 ►  Zielstrebig: Mache alles um mein ziel zu schaffen
             
@@ -79,6 +80,6 @@ st.markdown(r'''
             
 - Programmieren: Ich schaue gerne videos über programmieren und lerne gerne immer was neue über das Programmieren
             
-- Fitness: Ich gehe sehr gerne ins Fitness studio
+- Fitness: Ich gehe sehr gerne ins Fitnessstudio
             
 ''')
